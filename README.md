@@ -28,3 +28,6 @@ This portfolio website serves as a professional online presence for developers, 
 
 ##OUTPUT
 
+<img width="1901" height="905" alt="Image" src="https://github.com/user-attachments/assets/ec478d2e-4f64-4d85-b8c9-9c586feec3a0" />
+
+<img width="1895" height="915" alt="Image" src="https://github.com/user-attachments/assets/94527889-4cca-4d7a-9c4d-04f40abb89b2" />
